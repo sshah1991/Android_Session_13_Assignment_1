@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Apr 28 17:54:55 IST 2017
+2.base=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
+5.base=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\activity_main.xml
+0.set=ANDROID_RESOURCE

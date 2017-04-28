@@ -1,0 +1,4 @@
+#Fri Apr 28 17:54:52 IST 2017
+base.0=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Sumeet\\Desktop\\Workspace\\Assignment13.1\\Android_assignment1_session_13\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
